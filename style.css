@@ -1,0 +1,16 @@
+h1{
+    color:rgb(86, 73, 207);
+}
+button{
+    background-color:rgb(221, 153, 27);
+}
+label{
+    color: rgb(236, 56, 161);
+}
+#answer{
+    text-decoration:underline;
+}
+.cont
+{
+    align-items: center;
+}
